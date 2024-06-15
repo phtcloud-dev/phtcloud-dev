@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=phtcloud-dev&theme=github-compact&hide_border=true&area=true" />
 <!--
 **phtcloud-dev/phtcloud-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
