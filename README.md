@@ -1,6 +1,10 @@
-## Hi there 👋
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=phtcloud-dev&theme=github-compact&hide_border=true&area=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtcloud-dev&hide_progress=false" />
+<a href="https://github.com/phtcloud-dev">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=phtcloud-dev&theme=github-compact&hide_border=true&area=true" />
+</a>
+<a href="https://github.com/phtcloud-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtcloud-dev&hide_progress=false" />
+</a>
+
 <!--
 **phtcloud-dev/phtcloud-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
