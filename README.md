@@ -1,5 +1,5 @@
 <a href="https://github.com/phtcloud-dev">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=phtcloud-dev&theme=github-compact&hide_border=true&area=true" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=phtcloud-dev&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/phtcloud-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtcloud-dev&hide_progress=false" />
