@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=phtcloud-dev&theme=github-compact&hide_border=true&area=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=phtcloud-dev&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtcloud-dev&hide_progress=false" />
 <!--
 **phtcloud-dev/phtcloud-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
